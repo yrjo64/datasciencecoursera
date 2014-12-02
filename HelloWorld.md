@@ -4,4 +4,6 @@
 - Another list item
 - Third item
 
+--------------------------
 ### A header
+**Bold stuff**
